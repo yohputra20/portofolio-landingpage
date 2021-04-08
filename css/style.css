@@ -1097,6 +1097,7 @@ canvas{
     transition: all 0.4s ease 0s;
     text-transform: uppercase;
     margin-top: 73px;
+    text-align: center;
 }
 .project-item .overlay > h2 a {
     opacity: 1;
